@@ -7,11 +7,11 @@ import {Component} from '@angular/core';
   
 })
 export class EXButtonComponent {
-    BotonNombre: string = "ClickMe!";
-    
-    
-    ngOnInit() {
-    }
+
+  public justdoit(){
+    const texto = ("Exercise 5 done!");
+    console.log(texto);
+  }
   
   }
 
