@@ -8,7 +8,6 @@ import { Component, OnInit,ViewChild, AfterViewInit } from '@angular/core';
 })
 export class IndexComponent implements OnInit {
   title = 'Already in!';
-  
 
   constructor() {
     

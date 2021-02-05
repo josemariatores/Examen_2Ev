@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'examen2ev';
+  title = 'Already in!';
 
   public garantizar(){
     const texto1= ('Change for exercise 3');
