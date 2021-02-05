@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "examen2ev"
+  "defaultProject": "examen2ev",
+  "cli": {
+    "analytics": "d3121010-a440-4936-ab8b-f15b001c0854"
+  }
 }
