@@ -4,7 +4,15 @@ import {Component} from '@angular/core';
   selector: 'app-exbutton',
   templateUrl: './exbutton.component.html',
   styleUrls: ['./exbutton.component.css']
+  
 })
 export class EXButtonComponent {
+    BotonNombre: string = "ClickMe!";
+    
+    
+    ngOnInit() {
+    }
+  
+  }
 
-}
+
